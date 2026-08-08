@@ -130,7 +130,7 @@ Quem sabe até onde essa aventura pode chegar?</p>
                 </div>
             </section>
             
-            <img class="imagem-personagem" src="avatar.png" alt="Avatar do Arthur">
+            <img class="imagem-personagem" src="download (5).png" alt="Avatar do Arthur">
         </main>
     </body>
 </html>
